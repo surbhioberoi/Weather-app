@@ -1,0 +1,42 @@
+body {
+  font-family: 'Lekton', sans-serif;
+  background-color: #E6E0D4
+}
+
+#tempBox {
+  font-size: 50px !important;
+}
+#location {
+  font-size: 30px !important;
+}
+
+#description {
+  font-size: 30px !important;
+}
+
+#iconBox {
+  font-size: 30px !important;
+  padding-right: 5px;
+}
+
+.heading {
+  font-size: 45px;
+  margin-top: 45px;
+  margin-bottom: 4px;
+}
+
+button {
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.degree {
+  font-size: 25px;
+}
+
+@media screen and (min-width: 900px) and (max-width: 1600px) {
+  .heading {
+    margin-bottom: -30px;
+  }
+  
+}
